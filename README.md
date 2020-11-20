@@ -7,6 +7,8 @@
 1. filename 信号文件相对路径(输入的ADV2信号文件须为txt格式)
 2. stft_wnd_size STFT窗口大小
 3. time_frag_size 图表3&4时间窗口大小
+4. channel_id 使用通道序号
+5. sample_rate 采样率
 
 ## 输出图表
 1. 输出信号时域图

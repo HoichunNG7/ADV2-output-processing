@@ -1,0 +1,1 @@
+graphing('data/test.txt', 0, 0, 5, 4000);
